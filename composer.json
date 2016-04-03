@@ -15,7 +15,8 @@
         "droid/droid": "~1.0",
         "droid/droid-composer": "~1.0",
         "droid/droid-bower": "~1.0",
-        "droid/droid-haigha": "~1.0"
+        "droid/droid-haigha": "~1.0",
+        "droid/droid-dbtk": "~1.0"
     },
     "license": "MIT"
 }
