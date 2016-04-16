@@ -17,7 +17,11 @@
         "droid/droid-bower": "~1.0",
         "droid/droid-haigha": "~1.0",
         "droid/droid-dbtk": "~1.0",
-        "droid/droid-git": "~1.0"
+        "droid/droid-git": "~1.0",
+        "droid/droid-ssh": "~1.0"
+    },
+    "require-dev": {
+        "kherge/box": "~2.5"
     },
     "license": "MIT"
 }
