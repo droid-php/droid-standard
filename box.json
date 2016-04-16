@@ -1,0 +1,24 @@
+{
+    "alias": "droid.phar",
+    "chmod": "0755",
+    "compactors": [
+        "Herrera\\Box\\Compactor\\Json",
+        "Herrera\\Box\\Compactor\\Php"
+    ],
+    "directories": [],
+    "files": [
+        "LICENSE.md",
+        "README.md"
+    ],
+    "finder": [
+        {
+            "name": "*.php",
+            "exclude": ["Tests"],
+            "in": "vendor"
+        }
+    ],
+    "git-version": "package_version",
+    "main": "vendor/bin/droid",
+    "output": "droid.phar",
+    "stub": true
+}
