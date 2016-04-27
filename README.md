@@ -12,5 +12,12 @@ This repository does not contain any code, it just includes a `composer.json` th
 * droid-haigha
 * droid-dbtk
 * droid-git
+* droid-fs
+* droid-ssh
+* droid-mysql
 
 You can choose to depend on `droid/droid-plugins` to get all default plugins, or be more specific, and depend on `droid/droid`, and add your preferred plugins manually, by depending on `droid/droid-composer` etc.
+
+## Rebuilding droid.phar
+
+    vendor/bin/box build
