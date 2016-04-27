@@ -23,7 +23,8 @@
         "droid/droid-mysql": "~1.0",
         "droid/droid-service": "~1.0",
         "droid/droid-apt": "~1.0",
-        "droid/droid-hipchat": "~1.0"
+        "droid/droid-hipchat": "~1.0",
+        "droid/droid-homebrew": "~1.0"
     },
     "require-dev": {
         "kherge/box": "~2.5"
