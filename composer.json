@@ -1,7 +1,7 @@
 {
-    "name": "droid/droid-plugins",
-    "description": "Droid default plugins",
-    "homepage": "http://www.github.com/droid-php/droid-plugins",
+    "name": "droid/droid-standard",
+    "description": "Droid standard edition",
+    "homepage": "http://www.github.com/droid-php/droid-standard",
     "keywords": ["php", "droid", "plugins", "linkorb"],
     "type": "library",
     "authors": [
