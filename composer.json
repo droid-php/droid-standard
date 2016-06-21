@@ -24,7 +24,10 @@
         "droid/droid-service": "~1.0",
         "droid/droid-apt": "~1.0",
         "droid/droid-hipchat": "~1.0",
-        "droid/droid-homebrew": "~1.0"
+        "droid/droid-homebrew": "~1.0",
+        "droid/droid-user": "~1.0",
+        "droid/droid-apache": "~1.0",
+        "droid/droid-cron": "~1.0"
     },
     "require-dev": {
         "kherge/box": "~2.5"
