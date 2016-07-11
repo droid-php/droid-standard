@@ -13,21 +13,21 @@
     ],
     "require": {
         "droid/droid": "~1.0",
-        "droid/droid-fs": "~1.0",
-        "droid/droid-composer": "~1.0",
-        "droid/droid-bower": "~1.0",
-        "droid/droid-haigha": "~1.0",
-        "droid/droid-dbtk": "~1.0",
-        "droid/droid-git": "~1.0",
-        "droid/droid-ssh": "~1.0",
-        "droid/droid-mysql": "~1.0",
-        "droid/droid-service": "~1.0",
+        "droid/droid-apache": "~1.0",
         "droid/droid-apt": "~1.0",
+        "droid/droid-bower": "~1.0",
+        "droid/droid-composer": "~1.0",
+        "droid/droid-cron": "~1.0",
+        "droid/droid-dbtk": "~1.0",
+        "droid/droid-fs": "~1.0",
+        "droid/droid-git": "~1.0",
+        "droid/droid-haigha": "~1.0",
         "droid/droid-hipchat": "~1.0",
         "droid/droid-homebrew": "~1.0",
-        "droid/droid-user": "~1.0",
-        "droid/droid-apache": "~1.0",
-        "droid/droid-cron": "~1.0"
+        "droid/droid-mysql": "~1.0",
+        "droid/droid-service": "~1.0",
+        "droid/droid-ssh": "~1.0",
+        "droid/droid-user": "~1.0"
     },
     "require-dev": {
         "kherge/box": "~2.5"
