@@ -17,7 +17,7 @@
         "droid/droid-apt": "~1.0",
         "droid/droid-bower": "~1.0",
         "droid/droid-composer": "~1.0",
-        "droid/droid-cron": "~1.0",
+        "droid/droid-cron": "^1.1.0",
         "droid/droid-dbtk": "~1.0",
         "droid/droid-fs": "^1.5.1",
         "droid/droid-git": "~1.0",
