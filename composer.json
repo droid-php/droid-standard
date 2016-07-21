@@ -19,6 +19,7 @@
         "droid/droid-composer": "~1.0",
         "droid/droid-cron": "^1.1.0",
         "droid/droid-dbtk": "~1.0",
+        "droid/droid-debconfdb": "^1.0.0",
         "droid/droid-fs": "^1.5.1",
         "droid/droid-git": "~1.0",
         "droid/droid-haigha": "~1.0",
