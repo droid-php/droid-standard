@@ -28,6 +28,7 @@
         "droid/droid-homebrew": "~1.0",
         "droid/droid-mysql": "^1.3.1",
         "droid/droid-nginx": "~1.0",
+        "droid/droid-os": "^1.0",
         "droid/droid-service": "~1.0",
         "droid/droid-ssh": "~1.0",
         "droid/droid-user": "~1.0"
