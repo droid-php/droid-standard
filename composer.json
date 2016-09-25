@@ -30,6 +30,7 @@
         "droid/droid-nginx": "~1.0",
         "droid/droid-os": "^1.0",
         "droid/droid-service": "~1.0",
+        "droid/droid-shell": "~1.0",
         "droid/droid-ssh": "~1.0",
         "droid/droid-user": "~1.0"
     },
